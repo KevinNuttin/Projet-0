@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Pupute</title>
+    </head> 
+    <body>
+    	<citation auteur="Neil Armstrong" date="21/07/1969">
+		C'est un petit pas pour l'homme, mais un bond de géant pour l'humanité.
+        <image nom= "Velma Dinkley.jpg"/>
+    </body>
+    <!--ceci est un commentaire -->
+</html>
